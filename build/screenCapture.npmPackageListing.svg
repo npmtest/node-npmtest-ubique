@@ -1,0 +1,603 @@
+<svg height="9598" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="9598" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 09:41:20 +0000  1492195 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 09:41:20 +0000     4718 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 09:41:20 +0000    13962 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 09:41:20 +0000      365 bytes  bower.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 09:41:20 +0000   714582 bytes  dist/ubique.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 09:41:20 +0000   245992 bytes  dist/ubique.min.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 09:41:20 +0000    13425 bytes  doc/contents.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 09:41:20 +0000     1401 bytes  doc/datafeed/yahoo.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 09:41:20 +0000     1386 bytes  doc/datafeed/yahooSync.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 09:41:20 +0000     1329 bytes  doc/datatype/arrayfun.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 09:41:20 +0000      378 bytes  doc/datatype/clock.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 09:41:20 +0000     2517 bytes  doc/datatype/datenum.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 09:41:20 +0000     2349 bytes  doc/datatype/datestr.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 09:41:20 +0000     2554 bytes  doc/datatype/datevec.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 09:41:20 +0000      485 bytes  doc/datatype/format.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 09:41:20 +0000      264 bytes  doc/datatype/isarray.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 09:41:20 +0000      324 bytes  doc/datatype/isempty.md</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 09:41:20 +0000      339 bytes  doc/datatype/isfunction.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 09:41:20 +0000      259 bytes  doc/datatype/isinteger.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 09:41:20 +0000      275 bytes  doc/datatype/islogical.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 09:41:20 +0000      319 bytes  doc/datatype/ismatrix.md</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 09:41:20 +0000      321 bytes  doc/datatype/isnan.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 09:41:20 +0000      259 bytes  doc/datatype/isnull.md</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 09:41:20 +0000      297 bytes  doc/datatype/isnumber.md</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 09:41:20 +0000      341 bytes  doc/datatype/isscalar.md</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 09:41:20 +0000      406 bytes  doc/datatype/issingular.md</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 09:41:20 +0000      273 bytes  doc/datatype/isstring.md</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 09:41:20 +0000      294 bytes  doc/datatype/isundefined.md</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 09:41:20 +0000      470 bytes  doc/datatype/isvector.md</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 09:41:20 +0000      569 bytes  doc/datatype/month.md</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 09:41:20 +0000      307 bytes  doc/datatype/now.md</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 09:41:20 +0000      507 bytes  doc/datatype/randchar.md</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 09:41:20 +0000      454 bytes  doc/datatype/strfind.md</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 09:41:20 +0000      251 bytes  doc/datatype/today.md</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 09:41:20 +0000      630 bytes  doc/datatype/vectorfun.md</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 09:41:20 +0000      617 bytes  doc/datatype/weekday.md</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 09:41:20 +0000      509 bytes  doc/elemop/ceil.md</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 09:41:20 +0000      622 bytes  doc/elemop/cumdev.md</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 09:41:20 +0000      525 bytes  doc/elemop/cummax.md</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 09:41:20 +0000      527 bytes  doc/elemop/cummin.md</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 09:41:20 +0000      549 bytes  doc/elemop/cumprod.md</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 09:41:20 +0000      531 bytes  doc/elemop/cumsum.md</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 09:41:20 +0000      523 bytes  doc/elemop/diff.md</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 09:41:20 +0000      379 bytes  doc/elemop/dot.md</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 09:41:20 +0000      672 bytes  doc/elemop/eq.md</tspan>
+<tspan x="10" y="746"> 45.  2017-04-21 09:41:20 +0000      520 bytes  doc/elemop/floor.md</tspan>
+<tspan x="10" y="762"> 46.  2017-04-21 09:41:20 +0000      699 bytes  doc/elemop/ge.md</tspan>
+<tspan x="10" y="778"> 47.  2017-04-21 09:41:20 +0000      680 bytes  doc/elemop/gt.md</tspan>
+<tspan x="10" y="794"> 48.  2017-04-21 09:41:20 +0000      788 bytes  doc/elemop/ldivide.md</tspan>
+<tspan x="10" y="810"> 49.  2017-04-21 09:41:20 +0000      690 bytes  doc/elemop/le.md</tspan>
+<tspan x="10" y="826"> 50.  2017-04-21 09:41:20 +0000      674 bytes  doc/elemop/lt.md</tspan>
+<tspan x="10" y="842"> 51.  2017-04-21 09:41:20 +0000      576 bytes  doc/elemop/minus.md</tspan>
+<tspan x="10" y="858"> 52.  2017-04-21 09:41:20 +0000      773 bytes  doc/elemop/mldivide.md</tspan>
+<tspan x="10" y="874"> 53.  2017-04-21 09:41:20 +0000      493 bytes  doc/elemop/mod.md</tspan>
+<tspan x="10" y="890"> 54.  2017-04-21 09:41:20 +0000      414 bytes  doc/elemop/mpower.md</tspan>
+<tspan x="10" y="906"> 55.  2017-04-21 09:41:20 +0000      831 bytes  doc/elemop/mrdivide.md</tspan>
+<tspan x="10" y="922"> 56.  2017-04-21 09:41:20 +0000      655 bytes  doc/elemop/mtimes.md</tspan>
+<tspan x="10" y="938"> 57.  2017-04-21 09:41:20 +0000      674 bytes  doc/elemop/ne.md</tspan>
+<tspan x="10" y="954"> 58.  2017-04-21 09:41:20 +0000      528 bytes  doc/elemop/plus.md</tspan>
+<tspan x="10" y="970"> 59.  2017-04-21 09:41:20 +0000      801 bytes  doc/elemop/power.md</tspan>
+<tspan x="10" y="986"> 60.  2017-04-21 09:41:20 +0000      457 bytes  doc/elemop/prod.md</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-21 09:41:20 +0000      851 bytes  doc/elemop/rdivide.md</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-21 09:41:20 +0000      479 bytes  doc/elemop/rem.md</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-21 09:41:20 +0000      549 bytes  doc/elemop/round.md</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-21 09:41:20 +0000      441 bytes  doc/elemop/sum.md</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-21 09:41:20 +0000      608 bytes  doc/elemop/times.md</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-21 09:41:20 +0000      373 bytes  doc/elemop/uminus.md</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-21 09:41:20 +0000      809 bytes  doc/elemop/unique.md</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-21 09:41:20 +0000      358 bytes  doc/elmath/abs.md</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-21 09:41:20 +0000      365 bytes  doc/elmath/erf.md</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-21 09:41:20 +0000      380 bytes  doc/elmath/erfc.md</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-21 09:41:20 +0000      395 bytes  doc/elmath/erfcinv.md</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-21 09:41:20 +0000      390 bytes  doc/elmath/erfinv.md</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-21 09:41:20 +0000      407 bytes  doc/elmath/exp.md</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-21 09:41:20 +0000      397 bytes  doc/elmath/log.md</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-21 09:41:20 +0000      346 bytes  doc/elmath/sign.md</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-21 09:41:20 +0000     5124 bytes  doc/formatlabusers.md</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-21 09:41:20 +0000      324 bytes  doc/linalgebra/det.md</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-21 09:41:20 +0000      479 bytes  doc/linalgebra/inv.md</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-21 09:41:20 +0000      737 bytes  doc/linalgebra/linsolve.md</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-21 09:41:20 +0000      874 bytes  doc/linalgebra/lu.md</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-21 09:41:20 +0000      504 bytes  doc/matarrs/array.md</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-21 09:41:20 +0000     1556 bytes  doc/matarrs/cat.md</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-21 09:41:20 +0000      398 bytes  doc/matarrs/clone.md</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-21 09:41:20 +0000      570 bytes  doc/matarrs/colon.md</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-21 09:41:20 +0000     1027 bytes  doc/matarrs/diag.md</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-21 09:41:20 +0000      485 bytes  doc/matarrs/end.md</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-21 09:41:20 +0000      435 bytes  doc/matarrs/eye.md</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-21 09:41:20 +0000      528 bytes  doc/matarrs/falses.md</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-21 09:41:20 +0000      393 bytes  doc/matarrs/find.md</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-21 09:41:20 +0000      380 bytes  doc/matarrs/fix.md</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-21 09:41:20 +0000      629 bytes  doc/matarrs/flatten.md</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-21 09:41:20 +0000      611 bytes  doc/matarrs/flipdim.md</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-21 09:41:20 +0000      339 bytes  doc/matarrs/fliplr.md</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-21 09:41:20 +0000      333 bytes  doc/matarrs/flipud.md</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-21 09:41:20 +0000      410 bytes  doc/matarrs/getcol.md</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-21 09:41:20 +0000      405 bytes  doc/matarrs/getrow.md</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-21 09:41:20 +0000      474 bytes  doc/matarrs/horzcat.md</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-21 09:41:20 +0000      640 bytes  doc/matarrs/ind2sub.md</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-21 09:41:20 +0000      281 bytes  doc/matarrs/iscolumn.md</tspan>
+<tspan x="10" y="1626">100.  2017-04-21 09:41:20 +0000      264 bytes  doc/matarrs/isrow.md</tspan>
+<tspan x="10" y="1642">101.  2017-04-21 09:41:20 +0000      288 bytes  doc/matarrs/issquare.md</tspan>
+<tspan x="10" y="1658">102.  2017-04-21 09:41:20 +0000      384 bytes  doc/matarrs/length.md</tspan>
+<tspan x="10" y="1674">103.  2017-04-21 09:41:20 +0000      378 bytes  doc/matarrs/linspace.md</tspan>
+<tspan x="10" y="1690">104.  2017-04-21 09:41:20 +0000      404 bytes  doc/matarrs/logspace.md</tspan>
+<tspan x="10" y="1706">105.  2017-04-21 09:41:20 +0000     1044 bytes  doc/matarrs/matrix.md</tspan>
+<tspan x="10" y="1722">106.  2017-04-21 09:41:20 +0000     1209 bytes  doc/matarrs/mergesort.md</tspan>
+<tspan x="10" y="1738">107.  2017-04-21 09:41:20 +0000      378 bytes  doc/matarrs/ncols.md</tspan>
+<tspan x="10" y="1754">108.  2017-04-21 09:41:20 +0000      325 bytes  doc/matarrs/ndims.md</tspan>
+<tspan x="10" y="1770">109.  2017-04-21 09:41:20 +0000      371 bytes  doc/matarrs/nrows.md</tspan>
+<tspan x="10" y="1786">110.  2017-04-21 09:41:20 +0000      333 bytes  doc/matarrs/numel.md</tspan>
+<tspan x="10" y="1802">111.  2017-04-21 09:41:20 +0000      460 bytes  doc/matarrs/ones.md</tspan>
+<tspan x="10" y="1818">112.  2017-04-21 09:41:20 +0000      796 bytes  doc/matarrs/rand.md</tspan>
+<tspan x="10" y="1834">113.  2017-04-21 09:41:20 +0000      736 bytes  doc/matarrs/repmat.md</tspan>
+<tspan x="10" y="1850">114.  2017-04-21 09:41:20 +0000      955 bytes  doc/matarrs/reshape.md</tspan>
+<tspan x="10" y="1866">115.  2017-04-21 09:41:20 +0000      332 bytes  doc/matarrs/rows.md</tspan>
+<tspan x="10" y="1882">116.  2017-04-21 09:41:20 +0000      576 bytes  doc/matarrs/setcol.md</tspan>
+<tspan x="10" y="1898">117.  2017-04-21 09:41:20 +0000      572 bytes  doc/matarrs/setrow.md</tspan>
+<tspan x="10" y="1914">118.  2017-04-21 09:41:20 +0000      594 bytes  doc/matarrs/size.md</tspan>
+<tspan x="10" y="1930">119.  2017-04-21 09:41:20 +0000      775 bytes  doc/matarrs/sort.md</tspan>
+<tspan x="10" y="1946">120.  2017-04-21 09:41:20 +0000      625 bytes  doc/matarrs/squeeze.md</tspan>
+<tspan x="10" y="1962">121.  2017-04-21 09:41:20 +0000      623 bytes  doc/matarrs/sub2ind.md</tspan>
+<tspan x="10" y="1978">122.  2017-04-21 09:41:20 +0000      840 bytes  doc/matarrs/subset.md</tspan>
+<tspan x="10" y="1994">123.  2017-04-21 09:41:20 +0000      861 bytes  doc/matarrs/substelin.md</tspan>
+<tspan x="10" y="2010">124.  2017-04-21 09:41:20 +0000      342 bytes  doc/matarrs/tomat.md</tspan>
+<tspan x="10" y="2026">125.  2017-04-21 09:41:20 +0000      450 bytes  doc/matarrs/transpose.md</tspan>
+<tspan x="10" y="2042">126.  2017-04-21 09:41:20 +0000      506 bytes  doc/matarrs/trues.md</tspan>
+<tspan x="10" y="2058">127.  2017-04-21 09:41:20 +0000      478 bytes  doc/matarrs/vertcat.md</tspan>
+<tspan x="10" y="2074">128.  2017-04-21 09:41:20 +0000      489 bytes  doc/matarrs/zeros.md</tspan>
+<tspan x="10" y="2090">129.  2017-04-21 09:41:20 +0000      463 bytes  doc/probdistr/jbtest.md</tspan>
+<tspan x="10" y="2106">130.  2017-04-21 09:41:20 +0000      590 bytes  doc/probdistr/normcdf.md</tspan>
+<tspan x="10" y="2122">131.  2017-04-21 09:41:20 +0000      675 bytes  doc/probdistr/norminv.md</tspan>
+<tspan x="10" y="2138">132.  2017-04-21 09:41:20 +0000      698 bytes  doc/probdistr/normpdf.md</tspan>
+<tspan x="10" y="2154">133.  2017-04-21 09:41:20 +0000      924 bytes  doc/quants/activereturn.md</tspan>
+<tspan x="10" y="2170">134.  2017-04-21 09:41:20 +0000      858 bytes  doc/quants/adjsharpe.md</tspan>
+<tspan x="10" y="2186">135.  2017-04-21 09:41:20 +0000     1081 bytes  doc/quants/annadjsharpe.md</tspan>
+<tspan x="10" y="2202">136.  2017-04-21 09:41:20 +0000      752 bytes  doc/quants/annarisk.md</tspan>
+<tspan x="10" y="2218">137.  2017-04-21 09:41:20 +0000      738 bytes  doc/quants/annavgrisk.md</tspan>
+<tspan x="10" y="2234">138.  2017-04-21 09:41:20 +0000      966 bytes  doc/quants/annreturn.md</tspan>
+<tspan x="10" y="2250">139.  2017-04-21 09:41:20 +0000      716 bytes  doc/quants/annrisk.md</tspan>
+<tspan x="10" y="2266">140.  2017-04-21 09:41:20 +0000      770 bytes  doc/quants/avgdrawdown.md</tspan>
+<tspan x="10" y="2282">141.  2017-04-21 09:41:20 +0000     1119 bytes  doc/quants/burkeratio.md</tspan>
+<tspan x="10" y="2298">142.  2017-04-21 09:41:20 +0000      699 bytes  doc/quants/cagr.md</tspan>
+<tspan x="10" y="2314">143.  2017-04-21 09:41:20 +0000      856 bytes  doc/quants/calmarratio.md</tspan>
+<tspan x="10" y="2330">144.  2017-04-21 09:41:20 +0000      600 bytes  doc/quants/cdrawdown.md</tspan>
+<tspan x="10" y="2346">145.  2017-04-21 09:41:20 +0000      638 bytes  doc/quants/downsidepot.md</tspan>
+<tspan x="10" y="2362">146.  2017-04-21 09:41:20 +0000      753 bytes  doc/quants/downsiderisk.md</tspan>
+<tspan x="10" y="2378">147.  2017-04-21 09:41:20 +0000      895 bytes  doc/quants/drawdown.md</tspan>
+<tspan x="10" y="2394">148.  2017-04-21 09:41:20 +0000     1010 bytes  doc/quants/histcondvar.md</tspan>
+<tspan x="10" y="2410">149.  2017-04-21 09:41:20 +0000      921 bytes  doc/quants/histvar.md</tspan>
+<tspan x="10" y="2426">150.  2017-04-21 09:41:20 +0000      936 bytes  doc/quants/hurst.md</tspan>
+<tspan x="10" y="2442">151.  2017-04-21 09:41:20 +0000      681 bytes  doc/quants/inforatio.md</tspan>
+<tspan x="10" y="2458">152.  2017-04-21 09:41:20 +0000     1143 bytes  doc/quants/irr.md</tspan>
+<tspan x="10" y="2474">153.  2017-04-21 09:41:20 +0000      834 bytes  doc/quants/jensenalpha.md</tspan>
+<tspan x="10" y="2490">154.  2017-04-21 09:41:20 +0000      963 bytes  doc/quants/m2sortino.md</tspan>
+<tspan x="10" y="2506">155.  2017-04-21 09:41:20 +0000      949 bytes  doc/quants/martinratio.md</tspan>
+<tspan x="10" y="2522">156.  2017-04-21 09:41:20 +0000      862 bytes  doc/quants/mdietz.md</tspan>
+<tspan x="10" y="2538">157.  2017-04-21 09:41:20 +0000      795 bytes  doc/quants/modigliani.md</tspan>
+<tspan x="10" y="2554">158.  2017-04-21 09:41:20 +0000      958 bytes  doc/quants/montecarlovar.md</tspan>
+<tspan x="10" y="2570">159.  2017-04-21 09:41:20 +0000      616 bytes  doc/quants/omegaratio.md</tspan>
+<tspan x="10" y="2586">160.  2017-04-21 09:41:20 +0000      689 bytes  doc/quants/painindex.md</tspan>
+<tspan x="10" y="2602">161.  2017-04-21 09:41:20 +0000      937 bytes  doc/quants/painratio.md</tspan>
+<tspan x="10" y="2618">162.  2017-04-21 09:41:20 +0000     1137 bytes  doc/quants/paramcondvar.md</tspan>
+<tspan x="10" y="2634">163.  2017-04-21 09:41:20 +0000     1354 bytes  doc/quants/paramvar.md</tspan>
+<tspan x="10" y="2650">164.  2017-04-21 09:41:20 +0000      688 bytes  doc/quants/percpos.md</tspan>
+<tspan x="10" y="2666">165.  2017-04-21 09:41:20 +0000      691 bytes  doc/quants/ret2tick.md</tspan>
+<tspan x="10" y="2682">166.  2017-04-21 09:41:20 +0000      808 bytes  doc/quants/ror.md</tspan>
+<tspan x="10" y="2698">167.  2017-04-21 09:41:20 +0000      754 bytes  doc/quants/sharpe.md</tspan>
+<tspan x="10" y="2714">168.  2017-04-21 09:41:20 +0000      677 bytes  doc/quants/sortino.md</tspan>
+<tspan x="10" y="2730">169.  2017-04-21 09:41:20 +0000      906 bytes  doc/quants/sterlingratio.md</tspan>
+<tspan x="10" y="2746">170.  2017-04-21 09:41:20 +0000      645 bytes  doc/quants/tick2ret.md</tspan>
+<tspan x="10" y="2762">171.  2017-04-21 09:41:20 +0000      589 bytes  doc/quants/tomonthly.md</tspan>
+<tspan x="10" y="2778">172.  2017-04-21 09:41:20 +0000      670 bytes  doc/quants/toweekly.md</tspan>
+<tspan x="10" y="2794">173.  2017-04-21 09:41:20 +0000      706 bytes  doc/quants/trackerr.md</tspan>
+<tspan x="10" y="2810">174.  2017-04-21 09:41:20 +0000      879 bytes  doc/quants/treynor.md</tspan>
+<tspan x="10" y="2826">175.  2017-04-21 09:41:20 +0000      585 bytes  doc/quants/twr.md</tspan>
+<tspan x="10" y="2842">176.  2017-04-21 09:41:20 +0000      796 bytes  doc/quants/ulcerindex.md</tspan>
+<tspan x="10" y="2858">177.  2017-04-21 09:41:20 +0000      626 bytes  doc/quants/upsidepot.md</tspan>
+<tspan x="10" y="2874">178.  2017-04-21 09:41:20 +0000      638 bytes  doc/quants/xreturn.md</tspan>
+<tspan x="10" y="2890">179.  2017-04-21 09:41:20 +0000      552 bytes  doc/reglin/interp1.md</tspan>
+<tspan x="10" y="2906">180.  2017-04-21 09:41:20 +0000      816 bytes  doc/reglin/linearreg.md</tspan>
+<tspan x="10" y="2922">181.  2017-04-21 09:41:20 +0000      665 bytes  doc/stats/corrcoef.md</tspan>
+<tspan x="10" y="2938">182.  2017-04-21 09:41:20 +0000      817 bytes  doc/stats/cov.md</tspan>
+<tspan x="10" y="2954">183.  2017-04-21 09:41:20 +0000     1295 bytes  doc/stats/histc.md</tspan>
+<tspan x="10" y="2970">184.  2017-04-21 09:41:20 +0000      556 bytes  doc/stats/iqr.md</tspan>
+<tspan x="10" y="2986">185.  2017-04-21 09:41:20 +0000      612 bytes  doc/stats/kurtosis.md</tspan>
+<tspan x="10" y="3002">186.  2017-04-21 09:41:20 +0000      464 bytes  doc/stats/mad.md</tspan>
+<tspan x="10" y="3018">187.  2017-04-21 09:41:20 +0000      462 bytes  doc/stats/max.md</tspan>
+<tspan x="10" y="3034">188.  2017-04-21 09:41:20 +0000      501 bytes  doc/stats/mean.md</tspan>
+<tspan x="10" y="3050">189.  2017-04-21 09:41:20 +0000      455 bytes  doc/stats/median.md</tspan>
+<tspan x="10" y="3066">190.  2017-04-21 09:41:20 +0000      468 bytes  doc/stats/min.md</tspan>
+<tspan x="10" y="3082">191.  2017-04-21 09:41:20 +0000      496 bytes  doc/stats/mode.md</tspan>
+<tspan x="10" y="3098">192.  2017-04-21 09:41:20 +0000      672 bytes  doc/stats/moment.md</tspan>
+<tspan x="10" y="3114">193.  2017-04-21 09:41:20 +0000      800 bytes  doc/stats/pdist.md</tspan>
+<tspan x="10" y="3130">194.  2017-04-21 09:41:20 +0000      660 bytes  doc/stats/prctile.md</tspan>
+<tspan x="10" y="3146">195.  2017-04-21 09:41:20 +0000      629 bytes  doc/stats/quantile.md</tspan>
+<tspan x="10" y="3162">196.  2017-04-21 09:41:20 +0000      605 bytes  doc/stats/quartile.md</tspan>
+<tspan x="10" y="3178">197.  2017-04-21 09:41:20 +0000      478 bytes  doc/stats/range.md</tspan>
+<tspan x="10" y="3194">198.  2017-04-21 09:41:20 +0000      613 bytes  doc/stats/skewness.md</tspan>
+<tspan x="10" y="3210">199.  2017-04-21 09:41:20 +0000      564 bytes  doc/stats/std.md</tspan>
+<tspan x="10" y="3226">200.  2017-04-21 09:41:20 +0000      551 bytes  doc/stats/varc.md</tspan>
+<tspan x="10" y="3242">201.  2017-04-21 09:41:20 +0000      631 bytes  doc/stats/xkurtosis.md</tspan>
+<tspan x="10" y="3258">202.  2017-04-21 09:41:20 +0000      628 bytes  doc/stats/zscore.md</tspan>
+<tspan x="10" y="3274">203.  2017-04-21 09:41:20 +0000      434 bytes  doc/util/argsarray.md</tspan>
+<tspan x="10" y="3290">204.  2017-04-21 09:41:20 +0000      490 bytes  doc/util/format.md</tspan>
+<tspan x="10" y="3306">205.  2017-04-21 09:41:20 +0000       44 bytes  index.js</tspan>
+<tspan x="10" y="3322">206.  2017-04-21 09:41:20 +0000      500 bytes  lib/constants.js</tspan>
+<tspan x="10" y="3338">207.  2017-04-21 09:41:20 +0000     3776 bytes  lib/datafeed/yahoo.js</tspan>
+<tspan x="10" y="3354">208.  2017-04-21 09:41:20 +0000     3637 bytes  lib/datafeed/yahooSync.js</tspan>
+<tspan x="10" y="3370">209.  2017-04-21 09:41:20 +0000     2165 bytes  lib/datatype/arrayfun.js</tspan>
+<tspan x="10" y="3386">210.  2017-04-21 09:41:20 +0000      502 bytes  lib/datatype/clock.js</tspan>
+<tspan x="10" y="3402">211.  2017-04-21 09:41:20 +0000     3480 bytes  lib/datatype/datavec.js</tspan>
+<tspan x="10" y="3418">212.  2017-04-21 09:41:20 +0000     3496 bytes  lib/datatype/datenum.js</tspan>
+<tspan x="10" y="3434">213.  2017-04-21 09:41:20 +0000     2769 bytes  lib/datatype/datestr.js</tspan>
+<tspan x="10" y="3450">214.  2017-04-21 09:41:20 +0000      479 bytes  lib/datatype/isarray.js</tspan>
+<tspan x="10" y="3466">215.  2017-04-21 09:41:20 +0000      639 bytes  lib/datatype/isempty.js</tspan>
+<tspan x="10" y="3482">216.  2017-04-21 09:41:20 +0000      523 bytes  lib/datatype/isfunction.js</tspan>
+<tspan x="10" y="3498">217.  2017-04-21 09:41:20 +0000      446 bytes  lib/datatype/isinteger.js</tspan>
+<tspan x="10" y="3514">218.  2017-04-21 09:41:20 +0000      468 bytes  lib/datatype/islogical.js</tspan>
+<tspan x="10" y="3530">219.  2017-04-21 09:41:20 +0000      591 bytes  lib/datatype/ismatrix.js</tspan>
+<tspan x="10" y="3546">220.  2017-04-21 09:41:20 +0000      493 bytes  lib/datatype/isnan.js</tspan>
+<tspan x="10" y="3562">221.  2017-04-21 09:41:20 +0000      434 bytes  lib/datatype/isnull.js</tspan>
+<tspan x="10" y="3578">222.  2017-04-21 09:41:20 +0000      493 bytes  lib/datatype/isnumber.js</tspan>
+<tspan x="10" y="3594">223.  2017-04-21 09:41:20 +0000      522 bytes  lib/datatype/isscalar.js</tspan>
+<tspan x="10" y="3610">224.  2017-04-21 09:41:20 +0000      861 bytes  lib/datatype/issingular.js</tspan>
+<tspan x="10" y="3626">225.  2017-04-21 09:41:20 +0000      465 bytes  lib/datatype/isstring.js</tspan>
+<tspan x="10" y="3642">226.  2017-04-21 09:41:20 +0000      475 bytes  lib/datatype/isundefined.js</tspan>
+<tspan x="10" y="3658">227.  2017-04-21 09:41:20 +0000      791 bytes  lib/datatype/isvector.js</tspan>
+<tspan x="10" y="3674">228.  2017-04-21 09:41:20 +0000      857 bytes  lib/datatype/month.js</tspan>
+<tspan x="10" y="3690">229.  2017-04-21 09:41:20 +0000      367 bytes  lib/datatype/now.js</tspan>
+<tspan x="10" y="3706">230.  2017-04-21 09:41:20 +0000      946 bytes  lib/datatype/randchar.js</tspan>
+<tspan x="10" y="3722">231.  2017-04-21 09:41:20 +0000      950 bytes  lib/datatype/strfind.js</tspan>
+<tspan x="10" y="3738">232.  2017-04-21 09:41:20 +0000      340 bytes  lib/datatype/today.js</tspan>
+<tspan x="10" y="3754">233.  2017-04-21 09:41:20 +0000     1970 bytes  lib/datatype/vectorfun.js</tspan>
+<tspan x="10" y="3770">234.  2017-04-21 09:41:20 +0000      917 bytes  lib/datatype/weekday.js</tspan>
+<tspan x="10" y="3786">235.  2017-04-21 09:41:20 +0000      864 bytes  lib/elemop/ceil.js</tspan>
+<tspan x="10" y="3802">236.  2017-04-21 09:41:20 +0000      973 bytes  lib/elemop/cumdev.js</tspan>
+<tspan x="10" y="3818">237.  2017-04-21 09:41:20 +0000     1020 bytes  lib/elemop/cummax.js</tspan>
+<tspan x="10" y="3834">238.  2017-04-21 09:41:20 +0000     1022 bytes  lib/elemop/cummin.js</tspan>
+<tspan x="10" y="3850">239.  2017-04-21 09:41:20 +0000      973 bytes  lib/elemop/cumprod.js</tspan>
+<tspan x="10" y="3866">240.  2017-04-21 09:41:20 +0000      952 bytes  lib/elemop/cumsum.js</tspan>
+<tspan x="10" y="3882">241.  2017-04-21 09:41:20 +0000      930 bytes  lib/elemop/diff.js</tspan>
+<tspan x="10" y="3898">242.  2017-04-21 09:41:20 +0000      700 bytes  lib/elemop/dot.js</tspan>
+<tspan x="10" y="3914">243.  2017-04-21 09:41:20 +0000     1017 bytes  lib/elemop/eq.js</tspan>
+<tspan x="10" y="3930">244.  2017-04-21 09:41:20 +0000      878 bytes  lib/elemop/floor.js</tspan>
+<tspan x="10" y="3946">245.  2017-04-21 09:41:20 +0000     1041 bytes  lib/elemop/ge.js</tspan>
+<tspan x="10" y="3962">246.  2017-04-21 09:41:20 +0000     1021 bytes  lib/elemop/gt.js</tspan>
+<tspan x="10" y="3978">247.  2017-04-21 09:41:20 +0000     2014 bytes  lib/elemop/ldivide.js</tspan>
+<tspan x="10" y="3994">248.  2017-04-21 09:41:20 +0000     1031 bytes  lib/elemop/le.js</tspan>
+<tspan x="10" y="4010">249.  2017-04-21 09:41:20 +0000     1015 bytes  lib/elemop/lt.js</tspan>
+<tspan x="10" y="4026">250.  2017-04-21 09:41:20 +0000     1932 bytes  lib/elemop/minus.js</tspan>
+<tspan x="10" y="4042">251.  2017-04-21 09:41:20 +0000     1408 bytes  lib/elemop/mldivide.js</tspan>
+<tspan x="10" y="4058">252.  2017-04-21 09:41:20 +0000      770 bytes  lib/elemop/mod.js</tspan>
+<tspan x="10" y="4074">253.  2017-04-21 09:41:20 +0000      843 bytes  lib/elemop/mpower.js</tspan>
+<tspan x="10" y="4090">254.  2017-04-21 09:41:20 +0000     1481 bytes  lib/elemop/mrdivide.js</tspan>
+<tspan x="10" y="4106">255.  2017-04-21 09:41:20 +0000     1350 bytes  lib/elemop/mtimes.js</tspan>
+<tspan x="10" y="4122">256.  2017-04-21 09:41:20 +0000     1018 bytes  lib/elemop/ne.js</tspan>
+<tspan x="10" y="4138">257.  2017-04-21 09:41:20 +0000     1918 bytes  lib/elemop/plus.js</tspan>
+<tspan x="10" y="4154">258.  2017-04-21 09:41:20 +0000     2105 bytes  lib/elemop/power.js</tspan>
+<tspan x="10" y="4170">259.  2017-04-21 09:41:20 +0000      847 bytes  lib/elemop/prod.js</tspan>
+<tspan x="10" y="4186">260.  2017-04-21 09:41:20 +0000     2097 bytes  lib/elemop/rdivide.js</tspan>
+<tspan x="10" y="4202">261.  2017-04-21 09:41:20 +0000      744 bytes  lib/elemop/rem.js</tspan>
+<tspan x="10" y="4218">262.  2017-04-21 09:41:20 +0000      910 bytes  lib/elemop/round.js</tspan>
+<tspan x="10" y="4234">263.  2017-04-21 09:41:20 +0000      823 bytes  lib/elemop/sum.js</tspan>
+<tspan x="10" y="4250">264.  2017-04-21 09:41:20 +0000     1886 bytes  lib/elemop/times.js</tspan>
+<tspan x="10" y="4266">265.  2017-04-21 09:41:20 +0000      608 bytes  lib/elemop/uminus.js</tspan>
+<tspan x="10" y="4282">266.  2017-04-21 09:41:20 +0000     1550 bytes  lib/elemop/unique.js</tspan>
+<tspan x="10" y="4298">267.  2017-04-21 09:41:20 +0000      639 bytes  lib/elmath/abs.js</tspan>
+<tspan x="10" y="4314">268.  2017-04-21 09:41:20 +0000      540 bytes  lib/elmath/erf.js</tspan>
+<tspan x="10" y="4330">269.  2017-04-21 09:41:20 +0000      939 bytes  lib/elmath/erfc.js</tspan>
+<tspan x="10" y="4346">270.  2017-04-21 09:41:20 +0000      972 bytes  lib/elmath/erfcinv.js</tspan>
+<tspan x="10" y="4362">271.  2017-04-21 09:41:20 +0000     1972 bytes  lib/elmath/erfinv.js</tspan>
+<tspan x="10" y="4378">272.  2017-04-21 09:41:20 +0000      698 bytes  lib/elmath/exp.js</tspan>
+<tspan x="10" y="4394">273.  2017-04-21 09:41:20 +0000      699 bytes  lib/elmath/log.js</tspan>
+<tspan x="10" y="4410">274.  2017-04-21 09:41:20 +0000      814 bytes  lib/elmath/sign.js</tspan>
+<tspan x="10" y="4426">275.  2017-04-21 09:41:20 +0000      682 bytes  lib/elmath/sqrt.js</tspan>
+<tspan x="10" y="4442">276.  2017-04-21 09:41:20 +0000      503 bytes  lib/extlib.js</tspan>
+<tspan x="10" y="4458">277.  2017-04-21 09:41:20 +0000     1334 bytes  lib/infoubique.js</tspan>
+<tspan x="10" y="4474">278.  2017-04-21 09:41:20 +0000      871 bytes  lib/linalgebra/det.js</tspan>
+<tspan x="10" y="4490">279.  2017-04-21 09:41:20 +0000      891 bytes  lib/linalgebra/inv.js</tspan>
+<tspan x="10" y="4506">280.  2017-04-21 09:41:20 +0000     2395 bytes  lib/linalgebra/linsolve.js</tspan>
+<tspan x="10" y="4522">281.  2017-04-21 09:41:20 +0000     3327 bytes  lib/linalgebra/lu.js</tspan>
+<tspan x="10" y="4538">282.  2017-04-21 09:41:20 +0000      934 bytes  lib/matarrs/array.js</tspan>
+<tspan x="10" y="4554">283.  2017-04-21 09:41:20 +0000     4208 bytes  lib/matarrs/cat.js</tspan>
+<tspan x="10" y="4570">284.  2017-04-21 09:41:20 +0000     1022 bytes  lib/matarrs/clone.js</tspan>
+<tspan x="10" y="4586">285.  2017-04-21 09:41:20 +0000     1001 bytes  lib/matarrs/colon.js</tspan>
+<tspan x="10" y="4602">286.  2017-04-21 09:41:20 +0000     1894 bytes  lib/matarrs/diag.js</tspan>
+<tspan x="10" y="4618">287.  2017-04-21 09:41:20 +0000     1129 bytes  lib/matarrs/end.js</tspan>
+<tspan x="10" y="4634">288.  2017-04-21 09:41:20 +0000     1019 bytes  lib/matarrs/eye.js</tspan>
+<tspan x="10" y="4650">289.  2017-04-21 09:41:20 +0000      955 bytes  lib/matarrs/falses.js</tspan>
+<tspan x="10" y="4666">290.  2017-04-21 09:41:20 +0000      809 bytes  lib/matarrs/find.js</tspan>
+<tspan x="10" y="4682">291.  2017-04-21 09:41:20 +0000      675 bytes  lib/matarrs/fix.js</tspan>
+<tspan x="10" y="4698">292.  2017-04-21 09:41:20 +0000     1198 bytes  lib/matarrs/flatten.js</tspan>
+<tspan x="10" y="4714">293.  2017-04-21 09:41:20 +0000     1229 bytes  lib/matarrs/flipdim.js</tspan>
+<tspan x="10" y="4730">294.  2017-04-21 09:41:20 +0000      529 bytes  lib/matarrs/fliplr.js</tspan>
+<tspan x="10" y="4746">295.  2017-04-21 09:41:20 +0000      519 bytes  lib/matarrs/flipud.js</tspan>
+<tspan x="10" y="4762">296.  2017-04-21 09:41:20 +0000      895 bytes  lib/matarrs/getcol.js</tspan>
+<tspan x="10" y="4778">297.  2017-04-21 09:41:20 +0000      812 bytes  lib/matarrs/getrow.js</tspan>
+<tspan x="10" y="4794">298.  2017-04-21 09:41:20 +0000      683 bytes  lib/matarrs/horzcat.js</tspan>
+<tspan x="10" y="4810">299.  2017-04-21 09:41:20 +0000     1136 bytes  lib/matarrs/ind2sub.js</tspan>
+<tspan x="10" y="4826">300.  2017-04-21 09:41:20 +0000      524 bytes  lib/matarrs/iscolumn.js</tspan>
+<tspan x="10" y="4842">301.  2017-04-21 09:41:20 +0000      507 bytes  lib/matarrs/isrow.js</tspan>
+<tspan x="10" y="4858">302.  2017-04-21 09:41:20 +0000      522 bytes  lib/matarrs/issquare.js</tspan>
+<tspan x="10" y="4874">303.  2017-04-21 09:41:20 +0000      574 bytes  lib/matarrs/length.js</tspan>
+<tspan x="10" y="4890">304.  2017-04-21 09:41:20 +0000      734 bytes  lib/matarrs/linspace.js</tspan>
+<tspan x="10" y="4906">305.  2017-04-21 09:41:20 +0000      684 bytes  lib/matarrs/logspace.js</tspan>
+<tspan x="10" y="4922">306.  2017-04-21 09:41:20 +0000     2638 bytes  lib/matarrs/matrix.js</tspan>
+<tspan x="10" y="4938">307.  2017-04-21 09:41:20 +0000     2747 bytes  lib/matarrs/mergesort.js</tspan>
+<tspan x="10" y="4954">308.  2017-04-21 09:41:20 +0000      558 bytes  lib/matarrs/ncols.js</tspan>
+<tspan x="10" y="4970">309.  2017-04-21 09:41:20 +0000      497 bytes  lib/matarrs/ndims.js</tspan>
+<tspan x="10" y="4986">310.  2017-04-21 09:41:20 +0000      550 bytes  lib/matarrs/nrows.js</tspan>
+<tspan x="10" y="5002">311.  2017-04-21 09:41:20 +0000      542 bytes  lib/matarrs/numel.js</tspan>
+<tspan x="10" y="5018">312.  2017-04-21 09:41:20 +0000      882 bytes  lib/matarrs/ones.js</tspan>
+<tspan x="10" y="5034">313.  2017-04-21 09:41:20 +0000     1817 bytes  lib/matarrs/rand.js</tspan>
+<tspan x="10" y="5050">314.  2017-04-21 09:41:20 +0000     1418 bytes  lib/matarrs/repmat.js</tspan>
+<tspan x="10" y="5066">315.  2017-04-21 09:41:20 +0000     2017 bytes  lib/matarrs/reshape.js</tspan>
+<tspan x="10" y="5082">316.  2017-04-21 09:41:20 +0000     1045 bytes  lib/matarrs/setcol.js</tspan>
+<tspan x="10" y="5098">317.  2017-04-21 09:41:20 +0000     1026 bytes  lib/matarrs/setrow.js</tspan>
+<tspan x="10" y="5114">318.  2017-04-21 09:41:20 +0000     1218 bytes  lib/matarrs/size.js</tspan>
+<tspan x="10" y="5130">319.  2017-04-21 09:41:20 +0000     1284 bytes  lib/matarrs/sort.js</tspan>
+<tspan x="10" y="5146">320.  2017-04-21 09:41:20 +0000     1084 bytes  lib/matarrs/squeeze.js</tspan>
+<tspan x="10" y="5162">321.  2017-04-21 09:41:20 +0000     1120 bytes  lib/matarrs/sub2ind.js</tspan>
+<tspan x="10" y="5178">322.  2017-04-21 09:41:20 +0000     2382 bytes  lib/matarrs/subset.js</tspan>
+<tspan x="10" y="5194">323.  2017-04-21 09:41:20 +0000     1496 bytes  lib/matarrs/subsetlin.js</tspan>
+<tspan x="10" y="5210">324.  2017-04-21 09:41:20 +0000      756 bytes  lib/matarrs/tomat.js</tspan>
+<tspan x="10" y="5226">325.  2017-04-21 09:41:20 +0000     1010 bytes  lib/matarrs/transpose.js</tspan>
+<tspan x="10" y="5242">326.  2017-04-21 09:41:20 +0000      932 bytes  lib/matarrs/trues.js</tspan>
+<tspan x="10" y="5258">327.  2017-04-21 09:41:20 +0000      680 bytes  lib/matarrs/vertcat.js</tspan>
+<tspan x="10" y="5274">328.  2017-04-21 09:41:20 +0000      912 bytes  lib/matarrs/zeros.js</tspan>
+<tspan x="10" y="5290">329.  2017-04-21 09:41:20 +0000      752 bytes  lib/probdistr/jbtest.js</tspan>
+<tspan x="10" y="5306">330.  2017-04-21 09:41:20 +0000      905 bytes  lib/probdistr/normcdf.js</tspan>
+<tspan x="10" y="5322">331.  2017-04-21 09:41:20 +0000     1086 bytes  lib/probdistr/norminv.js</tspan>
+<tspan x="10" y="5338">332.  2017-04-21 09:41:20 +0000     1048 bytes  lib/probdistr/normpdf.js</tspan>
+<tspan x="10" y="5354">333.  2017-04-21 09:41:20 +0000     1518 bytes  lib/quants/activereturn.js</tspan>
+<tspan x="10" y="5370">334.  2017-04-21 09:41:20 +0000     1411 bytes  lib/quants/adjsharpe.js</tspan>
+<tspan x="10" y="5386">335.  2017-04-21 09:41:20 +0000     1812 bytes  lib/quants/annadjsharpe.js</tspan>
+<tspan x="10" y="5402">336.  2017-04-21 09:41:20 +0000     1683 bytes  lib/quants/annreturn.js</tspan>
+<tspan x="10" y="5418">337.  2017-04-21 09:41:20 +0000     1135 bytes  lib/quants/annrisk.js</tspan>
+<tspan x="10" y="5434">338.  2017-04-21 09:41:20 +0000     1422 bytes  lib/quants/avgdrawdown.js</tspan>
+<tspan x="10" y="5450">339.  2017-04-21 09:41:20 +0000     2015 bytes  lib/quants/burkeratio.js</tspan>
+<tspan x="10" y="5466">340.  2017-04-21 09:41:20 +0000     1151 bytes  lib/quants/cagr.js</tspan>
+<tspan x="10" y="5482">341.  2017-04-21 09:41:20 +0000     1466 bytes  lib/quants/calmarratio.js</tspan>
+<tspan x="10" y="5498">342.  2017-04-21 09:41:20 +0000     1506 bytes  lib/quants/cdrawdown.js</tspan>
+<tspan x="10" y="5514">343.  2017-04-21 09:41:20 +0000     1132 bytes  lib/quants/downsidepot.js</tspan>
+<tspan x="10" y="5530">344.  2017-04-21 09:41:20 +0000     1282 bytes  lib/quants/downsiderisk.js</tspan>
+<tspan x="10" y="5546">345.  2017-04-21 09:41:20 +0000     2312 bytes  lib/quants/drawdown.js</tspan>
+<tspan x="10" y="5562">346.  2017-04-21 09:41:20 +0000     1746 bytes  lib/quants/histcondvar.js</tspan>
+<tspan x="10" y="5578">347.  2017-04-21 09:41:20 +0000     1489 bytes  lib/quants/histvar.js</tspan>
+<tspan x="10" y="5594">348.  2017-04-21 09:41:20 +0000     1482 bytes  lib/quants/hurst.js</tspan>
+<tspan x="10" y="5610">349.  2017-04-21 09:41:20 +0000     1252 bytes  lib/quants/inforatio.js</tspan>
+<tspan x="10" y="5626">350.  2017-04-21 09:41:20 +0000     2428 bytes  lib/quants/irr.js</tspan>
+<tspan x="10" y="5642">351.  2017-04-21 09:41:20 +0000     1516 bytes  lib/quants/jensenalpha.js</tspan>
+<tspan x="10" y="5658">352.  2017-04-21 09:41:20 +0000     1793 bytes  lib/quants/m2sortino.js</tspan>
+<tspan x="10" y="5674">353.  2017-04-21 09:41:20 +0000     1655 bytes  lib/quants/martinratio.js</tspan>
+<tspan x="10" y="5690">354.  2017-04-21 09:41:20 +0000     1785 bytes  lib/quants/mdietz.js</tspan>
+<tspan x="10" y="5706">355.  2017-04-21 09:41:20 +0000     1448 bytes  lib/quants/modigliani.js</tspan>
+<tspan x="10" y="5722">356.  2017-04-21 09:41:20 +0000     1672 bytes  lib/quants/montecarlovar.js</tspan>
+<tspan x="10" y="5738">357.  2017-04-21 09:41:20 +0000     1038 bytes  lib/quants/omegaratio.js</tspan>
+<tspan x="10" y="5754">358.  2017-04-21 09:41:20 +0000     1170 bytes  lib/quants/painindex.js</tspan>
+<tspan x="10" y="5770">359.  2017-04-21 09:41:20 +0000     1646 bytes  lib/quants/painratio.js</tspan>
+<tspan x="10" y="5786">360.  2017-04-21 09:41:20 +0000     1981 bytes  lib/quants/paramcondvar.js</tspan>
+<tspan x="10" y="5802">361.  2017-04-21 09:41:20 +0000     2219 bytes  lib/quants/paramvar.js</tspan>
+<tspan x="10" y="5818">362.  2017-04-21 09:41:20 +0000     1184 bytes  lib/quants/percpos.js</tspan>
+<tspan x="10" y="5834">363.  2017-04-21 09:41:20 +0000     1541 bytes  lib/quants/ret2tick.js</tspan>
+<tspan x="10" y="5850">364.  2017-04-21 09:41:20 +0000     1457 bytes  lib/quants/ror.js</tspan>
+<tspan x="10" y="5866">365.  2017-04-21 09:41:20 +0000     1194 bytes  lib/quants/sharpe.js</tspan>
+<tspan x="10" y="5882">366.  2017-04-21 09:41:20 +0000     1171 bytes  lib/quants/sortino.js</tspan>
+<tspan x="10" y="5898">367.  2017-04-21 09:41:20 +0000     1471 bytes  lib/quants/sterlingratio.js</tspan>
+<tspan x="10" y="5914">368.  2017-04-21 09:41:20 +0000     1449 bytes  lib/quants/tick2ret.js</tspan>
+<tspan x="10" y="5930">369.  2017-04-21 09:41:20 +0000     1119 bytes  lib/quants/tomonthly.js</tspan>
+<tspan x="10" y="5946">370.  2017-04-21 09:41:20 +0000     1266 bytes  lib/quants/toweekly.js</tspan>
+<tspan x="10" y="5962">371.  2017-04-21 09:41:20 +0000     1085 bytes  lib/quants/trackerr.js</tspan>
+<tspan x="10" y="5978">372.  2017-04-21 09:41:20 +0000     1365 bytes  lib/quants/treynor.js</tspan>
+<tspan x="10" y="5994">373.  2017-04-21 09:41:20 +0000     1057 bytes  lib/quants/twr.js</tspan>
+<tspan x="10" y="6010">374.  2017-04-21 09:41:20 +0000     1290 bytes  lib/quants/ulcerindex.js</tspan>
+<tspan x="10" y="6026">375.  2017-04-21 09:41:20 +0000     1118 bytes  lib/quants/upsidepot.js</tspan>
+<tspan x="10" y="6042">376.  2017-04-21 09:41:20 +0000     1966 bytes  lib/reglin/interp1.js</tspan>
+<tspan x="10" y="6058">377.  2017-04-21 09:41:20 +0000     1431 bytes  lib/reglin/linearreg.js</tspan>
+<tspan x="10" y="6074">378.  2017-04-21 09:41:20 +0000     1201 bytes  lib/stats/corrcoef.js</tspan>
+<tspan x="10" y="6090">379.  2017-04-21 09:41:20 +0000     2122 bytes  lib/stats/cov.js</tspan>
+<tspan x="10" y="6106">380.  2017-04-21 09:41:20 +0000     2380 bytes  lib/stats/histc.js</tspan>
+<tspan x="10" y="6122">381.  2017-04-21 09:41:20 +0000      938 bytes  lib/stats/iqr.js</tspan>
+<tspan x="10" y="6138">382.  2017-04-21 09:41:20 +0000     1192 bytes  lib/stats/kurtosis.js</tspan>
+<tspan x="10" y="6154">383.  2017-04-21 09:41:20 +0000      869 bytes  lib/stats/mad.js</tspan>
+<tspan x="10" y="6170">384.  2017-04-21 09:41:20 +0000      831 bytes  lib/stats/max.js</tspan>
+<tspan x="10" y="6186">385.  2017-04-21 09:41:20 +0000      901 bytes  lib/stats/mean.js</tspan>
+<tspan x="10" y="6202">386.  2017-04-21 09:41:20 +0000      995 bytes  lib/stats/median.js</tspan>
+<tspan x="10" y="6218">387.  2017-04-21 09:41:20 +0000      837 bytes  lib/stats/min.js</tspan>
+<tspan x="10" y="6234">388.  2017-04-21 09:41:20 +0000     1286 bytes  lib/stats/mode.js</tspan>
+<tspan x="10" y="6250">389.  2017-04-21 09:41:20 +0000     1146 bytes  lib/stats/moment.js</tspan>
+<tspan x="10" y="6266">390.  2017-04-21 09:41:20 +0000     1638 bytes  lib/stats/pdist.js</tspan>
+<tspan x="10" y="6282">391.  2017-04-21 09:41:20 +0000     1393 bytes  lib/stats/prctile.js</tspan>
+<tspan x="10" y="6298">392.  2017-04-21 09:41:20 +0000     1005 bytes  lib/stats/quantile.js</tspan>
+<tspan x="10" y="6314">393.  2017-04-21 09:41:20 +0000     1013 bytes  lib/stats/quartile.js</tspan>
+<tspan x="10" y="6330">394.  2017-04-21 09:41:20 +0000      859 bytes  lib/stats/range.js</tspan>
+<tspan x="10" y="6346">395.  2017-04-21 09:41:20 +0000     1176 bytes  lib/stats/skewness.js</tspan>
+<tspan x="10" y="6362">396.  2017-04-21 09:41:20 +0000      926 bytes  lib/stats/std.js</tspan>
+<tspan x="10" y="6378">397.  2017-04-21 09:41:20 +0000     1070 bytes  lib/stats/varc.js</tspan>
+<tspan x="10" y="6394">398.  2017-04-21 09:41:20 +0000     1047 bytes  lib/stats/xkurtosis.js</tspan>
+<tspan x="10" y="6410">399.  2017-04-21 09:41:20 +0000     1084 bytes  lib/stats/zscore.js</tspan>
+<tspan x="10" y="6426">400.  2017-04-21 09:41:20 +0000     9250 bytes  lib/ubique.js</tspan>
+<tspan x="10" y="6442">401.  2017-04-21 09:41:20 +0000      599 bytes  lib/util/argsarray.js</tspan>
+<tspan x="10" y="6458">402.  2017-04-21 09:41:20 +0000      808 bytes  lib/util/format.js</tspan>
+<tspan x="10" y="6474">403.  2017-04-21 09:41:20 +0000     1071 bytes  package.json</tspan>
+<tspan x="10" y="6490">404.  2017-04-21 09:41:20 +0000      339 bytes  test/datafeed/yahoo.js</tspan>
+<tspan x="10" y="6506">405.  2017-04-21 09:41:20 +0000     1026 bytes  test/datafeed/yahooSync.js</tspan>
+<tspan x="10" y="6522">406.  2017-04-21 09:41:20 +0000     1319 bytes  test/datatype/arrayfun.js</tspan>
+<tspan x="10" y="6538">407.  2017-04-21 09:41:20 +0000      423 bytes  test/datatype/clock.js</tspan>
+<tspan x="10" y="6554">408.  2017-04-21 09:41:20 +0000      821 bytes  test/datatype/datavec.js</tspan>
+<tspan x="10" y="6570">409.  2017-04-21 09:41:20 +0000      905 bytes  test/datatype/datenum.js</tspan>
+<tspan x="10" y="6586">410.  2017-04-21 09:41:20 +0000      702 bytes  test/datatype/datestr.js</tspan>
+<tspan x="10" y="6602">411.  2017-04-21 09:41:20 +0000      395 bytes  test/datatype/isarray.js</tspan>
+<tspan x="10" y="6618">412.  2017-04-21 09:41:20 +0000      431 bytes  test/datatype/isempty.js</tspan>
+<tspan x="10" y="6634">413.  2017-04-21 09:41:20 +0000      479 bytes  test/datatype/isfunction.js</tspan>
+<tspan x="10" y="6650">414.  2017-04-21 09:41:20 +0000      391 bytes  test/datatype/isinteger.js</tspan>
+<tspan x="10" y="6666">415.  2017-04-21 09:41:20 +0000      394 bytes  test/datatype/islogical.js</tspan>
+<tspan x="10" y="6682">416.  2017-04-21 09:41:20 +0000      451 bytes  test/datatype/ismatrix.js</tspan>
+<tspan x="10" y="6698">417.  2017-04-21 09:41:20 +0000      381 bytes  test/datatype/isnan.js</tspan>
+<tspan x="10" y="6714">418.  2017-04-21 09:41:20 +0000      385 bytes  test/datatype/isnull.js</tspan>
+<tspan x="10" y="6730">419.  2017-04-21 09:41:20 +0000      433 bytes  test/datatype/isnumber.js</tspan>
+<tspan x="10" y="6746">420.  2017-04-21 09:41:20 +0000      480 bytes  test/datatype/isscalar.js</tspan>
+<tspan x="10" y="6762">421.  2017-04-21 09:41:20 +0000      407 bytes  test/datatype/issingular.js</tspan>
+<tspan x="10" y="6778">422.  2017-04-21 09:41:20 +0000      393 bytes  test/datatype/isstring.js</tspan>
+<tspan x="10" y="6794">423.  2017-04-21 09:41:20 +0000      405 bytes  test/datatype/isundefined.js</tspan>
+<tspan x="10" y="6810">424.  2017-04-21 09:41:20 +0000      451 bytes  test/datatype/isvector.js</tspan>
+<tspan x="10" y="6826">425.  2017-04-21 09:41:20 +0000      551 bytes  test/datatype/month.js</tspan>
+<tspan x="10" y="6842">426.  2017-04-21 09:41:20 +0000      393 bytes  test/datatype/now.js</tspan>
+<tspan x="10" y="6858">427.  2017-04-21 09:41:20 +0000      246 bytes  test/datatype/randchar.js</tspan>
+<tspan x="10" y="6874">428.  2017-04-21 09:41:20 +0000      442 bytes  test/datatype/strfind.js</tspan>
+<tspan x="10" y="6890">429.  2017-04-21 09:41:20 +0000      397 bytes  test/datatype/today.js</tspan>
+<tspan x="10" y="6906">430.  2017-04-21 09:41:20 +0000      604 bytes  test/datatype/vectorfun.js</tspan>
+<tspan x="10" y="6922">431.  2017-04-21 09:41:20 +0000      567 bytes  test/datatype/weekday.js</tspan>
+<tspan x="10" y="6938">432.  2017-04-21 09:41:20 +0000      576 bytes  test/elemop/ceil.js</tspan>
+<tspan x="10" y="6954">433.  2017-04-21 09:41:20 +0000      675 bytes  test/elemop/cumdev.js</tspan>
+<tspan x="10" y="6970">434.  2017-04-21 09:41:20 +0000      531 bytes  test/elemop/cummax.js</tspan>
+<tspan x="10" y="6986">435.  2017-04-21 09:41:20 +0000      533 bytes  test/elemop/cummin.js</tspan>
+<tspan x="10" y="7002">436.  2017-04-21 09:41:20 +0000      547 bytes  test/elemop/cumprod.js</tspan>
+<tspan x="10" y="7018">437.  2017-04-21 09:41:20 +0000      539 bytes  test/elemop/cumsum.js</tspan>
+<tspan x="10" y="7034">438.  2017-04-21 09:41:20 +0000      511 bytes  test/elemop/diff.js</tspan>
+<tspan x="10" y="7050">439.  2017-04-21 09:41:20 +0000      402 bytes  test/elemop/dot.js</tspan>
+<tspan x="10" y="7066">440.  2017-04-21 09:41:20 +0000      786 bytes  test/elemop/eq.js</tspan>
+<tspan x="10" y="7082">441.  2017-04-21 09:41:20 +0000      582 bytes  test/elemop/floor.js</tspan>
+<tspan x="10" y="7098">442.  2017-04-21 09:41:20 +0000      780 bytes  test/elemop/ge.js</tspan>
+<tspan x="10" y="7114">443.  2017-04-21 09:41:20 +0000      790 bytes  test/elemop/gt.js</tspan>
+<tspan x="10" y="7130">444.  2017-04-21 09:41:20 +0000      844 bytes  test/elemop/ldivide.js</tspan>
+<tspan x="10" y="7146">445.  2017-04-21 09:41:20 +0000      780 bytes  test/elemop/le.js</tspan>
+<tspan x="10" y="7162">446.  2017-04-21 09:41:20 +0000      790 bytes  test/elemop/lt.js</tspan>
+<tspan x="10" y="7178">447.  2017-04-21 09:41:20 +0000      580 bytes  test/elemop/minus.js</tspan>
+<tspan x="10" y="7194">448.  2017-04-21 09:41:20 +0000      803 bytes  test/elemop/mldivide.js</tspan>
+<tspan x="10" y="7210">449.  2017-04-21 09:41:20 +0000      583 bytes  test/elemop/mod.js</tspan>
+<tspan x="10" y="7226">450.  2017-04-21 09:41:20 +0000      438 bytes  test/elemop/mpower.js</tspan>
+<tspan x="10" y="7242">451.  2017-04-21 09:41:20 +0000      860 bytes  test/elemop/mrdivide.js</tspan>
+<tspan x="10" y="7258">452.  2017-04-21 09:41:20 +0000      655 bytes  test/elemop/mtimes.js</tspan>
+<tspan x="10" y="7274">453.  2017-04-21 09:41:20 +0000      784 bytes  test/elemop/ne.js</tspan>
+<tspan x="10" y="7290">454.  2017-04-21 09:41:20 +0000      595 bytes  test/elemop/plus.js</tspan>
+<tspan x="10" y="7306">455.  2017-04-21 09:41:20 +0000      892 bytes  test/elemop/power.js</tspan>
+<tspan x="10" y="7322">456.  2017-04-21 09:41:20 +0000      509 bytes  test/elemop/prod.js</tspan>
+<tspan x="10" y="7338">457.  2017-04-21 09:41:20 +0000      928 bytes  test/elemop/rdivide.js</tspan>
+<tspan x="10" y="7354">458.  2017-04-21 09:41:20 +0000      540 bytes  test/elemop/rem.js</tspan>
+<tspan x="10" y="7370">459.  2017-04-21 09:41:20 +0000      602 bytes  test/elemop/round.js</tspan>
+<tspan x="10" y="7386">460.  2017-04-21 09:41:20 +0000      501 bytes  test/elemop/sum.js</tspan>
+<tspan x="10" y="7402">461.  2017-04-21 09:41:20 +0000      586 bytes  test/elemop/times.js</tspan>
+<tspan x="10" y="7418">462.  2017-04-21 09:41:20 +0000      490 bytes  test/elemop/uminus.js</tspan>
+<tspan x="10" y="7434">463.  2017-04-21 09:41:20 +0000      675 bytes  test/elemop/unique.js</tspan>
+<tspan x="10" y="7450">464.  2017-04-21 09:41:20 +0000      484 bytes  test/elmath/abs.js</tspan>
+<tspan x="10" y="7466">465.  2017-04-21 09:41:20 +0000      385 bytes  test/elmath/erf.js</tspan>
+<tspan x="10" y="7482">466.  2017-04-21 09:41:20 +0000      389 bytes  test/elmath/erfc.js</tspan>
+<tspan x="10" y="7498">467.  2017-04-21 09:41:20 +0000      397 bytes  test/elmath/erfcinv.js</tspan>
+<tspan x="10" y="7514">468.  2017-04-21 09:41:20 +0000      279 bytes  test/elmath/erfinv.js</tspan>
+<tspan x="10" y="7530">469.  2017-04-21 09:41:20 +0000      402 bytes  test/elmath/exp.js</tspan>
+<tspan x="10" y="7546">470.  2017-04-21 09:41:20 +0000      647 bytes  test/elmath/log.js</tspan>
+<tspan x="10" y="7562">471.  2017-04-21 09:41:20 +0000      487 bytes  test/elmath/sign.js</tspan>
+<tspan x="10" y="7578">472.  2017-04-21 09:41:20 +0000      644 bytes  test/elmath/sqrt.js</tspan>
+<tspan x="10" y="7594">473.  2017-04-21 09:41:20 +0000      435 bytes  test/linalgebra/det.js</tspan>
+<tspan x="10" y="7610">474.  2017-04-21 09:41:20 +0000      673 bytes  test/linalgebra/inv.js</tspan>
+<tspan x="10" y="7626">475.  2017-04-21 09:41:20 +0000      901 bytes  test/linalgebra/linsolve.js</tspan>
+<tspan x="10" y="7642">476.  2017-04-21 09:41:20 +0000      691 bytes  test/linalgebra/lu.js</tspan>
+<tspan x="10" y="7658">477.  2017-04-21 09:41:20 +0000      553 bytes  test/matarrs/array.js</tspan>
+<tspan x="10" y="7674">478.  2017-04-21 09:41:20 +0000     1430 bytes  test/matarrs/cat.js</tspan>
+<tspan x="10" y="7690">479.  2017-04-21 09:41:20 +0000      459 bytes  test/matarrs/clone.js</tspan>
+<tspan x="10" y="7706">480.  2017-04-21 09:41:20 +0000      571 bytes  test/matarrs/colon.js</tspan>
+<tspan x="10" y="7722">481.  2017-04-21 09:41:20 +0000      928 bytes  test/matarrs/diag.js</tspan>
+<tspan x="10" y="7738">482.  2017-04-21 09:41:20 +0000      486 bytes  test/matarrs/end.js</tspan>
+<tspan x="10" y="7754">483.  2017-04-21 09:41:20 +0000      555 bytes  test/matarrs/eye.js</tspan>
+<tspan x="10" y="7770">484.  2017-04-21 09:41:20 +0000      628 bytes  test/matarrs/falses.js</tspan>
+<tspan x="10" y="7786">485.  2017-04-21 09:41:20 +0000      492 bytes  test/matarrs/find.js</tspan>
+<tspan x="10" y="7802">486.  2017-04-21 09:41:20 +0000      493 bytes  test/matarrs/fix.js</tspan>
+<tspan x="10" y="7818">487.  2017-04-21 09:41:20 +0000      572 bytes  test/matarrs/flatten.js</tspan>
+<tspan x="10" y="7834">488.  2017-04-21 09:41:20 +0000      595 bytes  test/matarrs/flipdim.js</tspan>
+<tspan x="10" y="7850">489.  2017-04-21 09:41:20 +0000      413 bytes  test/matarrs/fliplr.js</tspan>
+<tspan x="10" y="7866">490.  2017-04-21 09:41:20 +0000      413 bytes  test/matarrs/flipud.js</tspan>
+<tspan x="10" y="7882">491.  2017-04-21 09:41:20 +0000      462 bytes  test/matarrs/getcol.js</tspan>
+<tspan x="10" y="7898">492.  2017-04-21 09:41:20 +0000      466 bytes  test/matarrs/getrow.js</tspan>
+<tspan x="10" y="7914">493.  2017-04-21 09:41:20 +0000      499 bytes  test/matarrs/horzcat.js</tspan>
+<tspan x="10" y="7930">494.  2017-04-21 09:41:20 +0000      568 bytes  test/matarrs/ind2sub.js</tspan>
+<tspan x="10" y="7946">495.  2017-04-21 09:41:20 +0000      394 bytes  test/matarrs/iscolumn.js</tspan>
+<tspan x="10" y="7962">496.  2017-04-21 09:41:20 +0000      383 bytes  test/matarrs/isrow.js</tspan>
+<tspan x="10" y="7978">497.  2017-04-21 09:41:20 +0000      401 bytes  test/matarrs/issquare.js</tspan>
+<tspan x="10" y="7994">498.  2017-04-21 09:41:20 +0000      472 bytes  test/matarrs/length.js</tspan>
+<tspan x="10" y="8010">499.  2017-04-21 09:41:20 +0000      407 bytes  test/matarrs/linspace.js</tspan>
+<tspan x="10" y="8026">500.  2017-04-21 09:41:20 +0000      448 bytes  test/matarrs/logspace.js</tspan>
+<tspan x="10" y="8042">501.  2017-04-21 09:41:20 +0000      834 bytes  test/matarrs/matrix.js</tspan>
+<tspan x="10" y="8058">502.  2017-04-21 09:41:20 +0000      632 bytes  test/matarrs/mergesort.js</tspan>
+<tspan x="10" y="8074">503.  2017-04-21 09:41:20 +0000      433 bytes  test/matarrs/ncols.js</tspan>
+<tspan x="10" y="8090">504.  2017-04-21 09:41:20 +0000      433 bytes  test/matarrs/ndims.js</tspan>
+<tspan x="10" y="8106">505.  2017-04-21 09:41:20 +0000      433 bytes  test/matarrs/nrows.js</tspan>
+<tspan x="10" y="8122">506.  2017-04-21 09:41:20 +0000      433 bytes  test/matarrs/numel.js</tspan>
+<tspan x="10" y="8138">507.  2017-04-21 09:41:20 +0000      562 bytes  test/matarrs/ones.js</tspan>
+<tspan x="10" y="8154">508.  2017-04-21 09:41:20 +0000      232 bytes  test/matarrs/rand.js</tspan>
+<tspan x="10" y="8170">509.  2017-04-21 09:41:20 +0000      679 bytes  test/matarrs/repmat.js</tspan>
+<tspan x="10" y="8186">510.  2017-04-21 09:41:20 +0000      797 bytes  test/matarrs/reshape.js</tspan>
+<tspan x="10" y="8202">511.  2017-04-21 09:41:20 +0000      500 bytes  test/matarrs/setcol.js</tspan>
+<tspan x="10" y="8218">512.  2017-04-21 09:41:20 +0000      508 bytes  test/matarrs/setrow.js</tspan>
+<tspan x="10" y="8234">513.  2017-04-21 09:41:20 +0000      648 bytes  test/matarrs/size.js</tspan>
+<tspan x="10" y="8250">514.  2017-04-21 09:41:20 +0000      578 bytes  test/matarrs/sort.js</tspan>
+<tspan x="10" y="8266">515.  2017-04-21 09:41:20 +0000      612 bytes  test/matarrs/squeeze.js</tspan>
+<tspan x="10" y="8282">516.  2017-04-21 09:41:20 +0000      575 bytes  test/matarrs/sub2ind.js</tspan>
+<tspan x="10" y="8298">517.  2017-04-21 09:41:20 +0000      736 bytes  test/matarrs/subset.js</tspan>
+<tspan x="10" y="8314">518.  2017-04-21 09:41:20 +0000      749 bytes  test/matarrs/subsetlin.js</tspan>
+<tspan x="10" y="8330">519.  2017-04-21 09:41:20 +0000      429 bytes  test/matarrs/tomat.js</tspan>
+<tspan x="10" y="8346">520.  2017-04-21 09:41:20 +0000      481 bytes  test/matarrs/transpose.js</tspan>
+<tspan x="10" y="8362">521.  2017-04-21 09:41:20 +0000      608 bytes  test/matarrs/trues.js</tspan>
+<tspan x="10" y="8378">522.  2017-04-21 09:41:20 +0000      513 bytes  test/matarrs/vertcat.js</tspan>
+<tspan x="10" y="8394">523.  2017-04-21 09:41:20 +0000      569 bytes  test/matarrs/zeros.js</tspan>
+<tspan x="10" y="8410">524.  2017-04-21 09:41:20 +0000      471 bytes  test/probdistr/jbtest.js</tspan>
+<tspan x="10" y="8426">525.  2017-04-21 09:41:20 +0000      560 bytes  test/probdistr/normcdf.js</tspan>
+<tspan x="10" y="8442">526.  2017-04-21 09:41:20 +0000      569 bytes  test/probdistr/norminv.js</tspan>
+<tspan x="10" y="8458">527.  2017-04-21 09:41:20 +0000      560 bytes  test/probdistr/normpdf.js</tspan>
+<tspan x="10" y="8474">528.  2017-04-21 09:41:20 +0000      763 bytes  test/quants/activereturn.js</tspan>
+<tspan x="10" y="8490">529.  2017-04-21 09:41:20 +0000      671 bytes  test/quants/adjsharpe.js</tspan>
+<tspan x="10" y="8506">530.  2017-04-21 09:41:20 +0000      698 bytes  test/quants/annadjsharpe.js</tspan>
+<tspan x="10" y="8522">531.  2017-04-21 09:41:20 +0000      666 bytes  test/quants/annreturn.js</tspan>
+<tspan x="10" y="8538">532.  2017-04-21 09:41:20 +0000      663 bytes  test/quants/annrisk.js</tspan>
+<tspan x="10" y="8554">533.  2017-04-21 09:41:20 +0000      737 bytes  test/quants/avgdrawdown.js</tspan>
+<tspan x="10" y="8570">534.  2017-04-21 09:41:20 +0000      749 bytes  test/quants/burkeratio.js</tspan>
+<tspan x="10" y="8586">535.  2017-04-21 09:41:20 +0000      669 bytes  test/quants/cagr.js</tspan>
+<tspan x="10" y="8602">536.  2017-04-21 09:41:20 +0000      677 bytes  test/quants/calmarratio.js</tspan>
+<tspan x="10" y="8618">537.  2017-04-21 09:41:20 +0000      738 bytes  test/quants/cdrawdown.js</tspan>
+<tspan x="10" y="8634">538.  2017-04-21 09:41:20 +0000      642 bytes  test/quants/downsidepot.js</tspan>
+<tspan x="10" y="8650">539.  2017-04-21 09:41:20 +0000      674 bytes  test/quants/downsiderisk.js</tspan>
+<tspan x="10" y="8666">540.  2017-04-21 09:41:20 +0000      597 bytes  test/quants/drawdown.js</tspan>
+<tspan x="10" y="8682">541.  2017-04-21 09:41:20 +0000      689 bytes  test/quants/histcondvar.js</tspan>
+<tspan x="10" y="8698">542.  2017-04-21 09:41:20 +0000      688 bytes  test/quants/histvar.js</tspan>
+<tspan x="10" y="8714">543.  2017-04-21 09:41:20 +0000      687 bytes  test/quants/hurst.js</tspan>
+<tspan x="10" y="8730">544.  2017-04-21 09:41:20 +0000      729 bytes  test/quants/inforatio.js</tspan>
+<tspan x="10" y="8746">545.  2017-04-21 09:41:20 +0000      675 bytes  test/quants/irr.js</tspan>
+<tspan x="10" y="8762">546.  2017-04-21 09:41:20 +0000      751 bytes  test/quants/jensenalpha.js</tspan>
+<tspan x="10" y="8778">547.  2017-04-21 09:41:20 +0000      753 bytes  test/quants/m2sortino.js</tspan>
+<tspan x="10" y="8794">548.  2017-04-21 09:41:20 +0000      677 bytes  test/quants/martinratio.js</tspan>
+<tspan x="10" y="8810">549.  2017-04-21 09:41:20 +0000      600 bytes  test/quants/mdietz.js</tspan>
+<tspan x="10" y="8826">550.  2017-04-21 09:41:20 +0000      747 bytes  test/quants/modigliani.js</tspan>
+<tspan x="10" y="8842">551.  2017-04-21 09:41:20 +0000      272 bytes  test/quants/montecarlovar.js</tspan>
+<tspan x="10" y="8858">552.  2017-04-21 09:41:20 +0000      649 bytes  test/quants/omegaratio.js</tspan>
+<tspan x="10" y="8874">553.  2017-04-21 09:41:20 +0000      670 bytes  test/quants/painindex.js</tspan>
+<tspan x="10" y="8890">554.  2017-04-21 09:41:20 +0000      671 bytes  test/quants/painratio.js</tspan>
+<tspan x="10" y="8906">555.  2017-04-21 09:41:20 +0000      744 bytes  test/quants/paramcondvar.js</tspan>
+<tspan x="10" y="8922">556.  2017-04-21 09:41:20 +0000     1041 bytes  test/quants/paramvar.js</tspan>
+<tspan x="10" y="8938">557.  2017-04-21 09:41:20 +0000      683 bytes  test/quants/percpos.js</tspan>
+<tspan x="10" y="8954">558.  2017-04-21 09:41:20 +0000      522 bytes  test/quants/ret2tick.js</tspan>
+<tspan x="10" y="8970">559.  2017-04-21 09:41:20 +0000      736 bytes  test/quants/ror.js</tspan>
+<tspan x="10" y="8986">560.  2017-04-21 09:41:20 +0000      643 bytes  test/quants/sharpe.js</tspan>
+<tspan x="10" y="9002">561.  2017-04-21 09:41:20 +0000      662 bytes  test/quants/sortino.js</tspan>
+<tspan x="10" y="9018">562.  2017-04-21 09:41:20 +0000      686 bytes  test/quants/sterlingratio.js</tspan>
+<tspan x="10" y="9034">563.  2017-04-21 09:41:20 +0000      514 bytes  test/quants/tick2ret.js</tspan>
+<tspan x="10" y="9050">564.  2017-04-21 09:41:20 +0000      422 bytes  test/quants/tomonthly.js</tspan>
+<tspan x="10" y="9066">565.  2017-04-21 09:41:20 +0000      535 bytes  test/quants/toweekly.js</tspan>
+<tspan x="10" y="9082">566.  2017-04-21 09:41:20 +0000      738 bytes  test/quants/trackerr.js</tspan>
+<tspan x="10" y="9098">567.  2017-04-21 09:41:20 +0000      753 bytes  test/quants/treynor.js</tspan>
+<tspan x="10" y="9114">568.  2017-04-21 09:41:20 +0000      470 bytes  test/quants/twr.js</tspan>
+<tspan x="10" y="9130">569.  2017-04-21 09:41:20 +0000      660 bytes  test/quants/ulcerindex.js</tspan>
+<tspan x="10" y="9146">570.  2017-04-21 09:41:20 +0000      619 bytes  test/quants/upsidepot.js</tspan>
+<tspan x="10" y="9162">571.  2017-04-21 09:41:20 +0000      459 bytes  test/reglin/interp1.js</tspan>
+<tspan x="10" y="9178">572.  2017-04-21 09:41:20 +0000      613 bytes  test/reglin/linearreg.js</tspan>
+<tspan x="10" y="9194">573.  2017-04-21 09:41:20 +0000      651 bytes  test/stats/corrcoef.js</tspan>
+<tspan x="10" y="9210">574.  2017-04-21 09:41:20 +0000      937 bytes  test/stats/cov.js</tspan>
+<tspan x="10" y="9226">575.  2017-04-21 09:41:20 +0000      927 bytes  test/stats/histc.js</tspan>
+<tspan x="10" y="9242">576.  2017-04-21 09:41:20 +0000      583 bytes  test/stats/iqr.js</tspan>
+<tspan x="10" y="9258">577.  2017-04-21 09:41:20 +0000      640 bytes  test/stats/kurtosis.js</tspan>
+<tspan x="10" y="9274">578.  2017-04-21 09:41:20 +0000      547 bytes  test/stats/mad.js</tspan>
+<tspan x="10" y="9290">579.  2017-04-21 09:41:20 +0000      495 bytes  test/stats/max.js</tspan>
+<tspan x="10" y="9306">580.  2017-04-21 09:41:20 +0000      583 bytes  test/stats/mean.js</tspan>
+<tspan x="10" y="9322">581.  2017-04-21 09:41:20 +0000      507 bytes  test/stats/median.js</tspan>
+<tspan x="10" y="9338">582.  2017-04-21 09:41:20 +0000      499 bytes  test/stats/min.js</tspan>
+<tspan x="10" y="9354">583.  2017-04-21 09:41:20 +0000      499 bytes  test/stats/mode.js</tspan>
+<tspan x="10" y="9370">584.  2017-04-21 09:41:20 +0000      698 bytes  test/stats/moment.js</tspan>
+<tspan x="10" y="9386">585.  2017-04-21 09:41:20 +0000      736 bytes  test/stats/pdist.js</tspan>
+<tspan x="10" y="9402">586.  2017-04-21 09:41:20 +0000      667 bytes  test/stats/prctile.js</tspan>
+<tspan x="10" y="9418">587.  2017-04-21 09:41:20 +0000      645 bytes  test/stats/quantile.js</tspan>
+<tspan x="10" y="9434">588.  2017-04-21 09:41:20 +0000      701 bytes  test/stats/quartile.js</tspan>
+<tspan x="10" y="9450">589.  2017-04-21 09:41:20 +0000      546 bytes  test/stats/range.js</tspan>
+<tspan x="10" y="9466">590.  2017-04-21 09:41:20 +0000      643 bytes  test/stats/skewness.js</tspan>
+<tspan x="10" y="9482">591.  2017-04-21 09:41:20 +0000      604 bytes  test/stats/std.js</tspan>
+<tspan x="10" y="9498">592.  2017-04-21 09:41:20 +0000      610 bytes  test/stats/varc.js</tspan>
+<tspan x="10" y="9514">593.  2017-04-21 09:41:20 +0000      649 bytes  test/stats/xkurtosis.js</tspan>
+<tspan x="10" y="9530">594.  2017-04-21 09:41:20 +0000      690 bytes  test/stats/zscore.js</tspan>
+<tspan x="10" y="9546">595.  2017-04-21 09:41:20 +0000      284 bytes  test/test.html</tspan>
+<tspan x="10" y="9562">596.  2017-04-21 09:41:20 +0000      418 bytes  test/util/argsarray.js</tspan>
+<tspan x="10" y="9578">597.  2017-04-21 09:41:20 +0000      498 bytes  test/util/format.js</tspan>
+</text>
+</svg>
